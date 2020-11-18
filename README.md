@@ -3,6 +3,6 @@
 ***
 **Github Pages**
 here is link: 
-https://ostrowskaanna.github.io/
+
 
 *still working on it*
