@@ -15,7 +15,8 @@ here is link:
 ***
 **fork**
 
-link:
+link to copied repository:
 
-[fork](https://github.com/ostrowskaanna/Lifespan_Age_Transformation_Synthesis)
+https://github.com/ostrowskaanna/Lifespan_Age_Transformation_Synthesis
+***
 
