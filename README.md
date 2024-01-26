@@ -1,6 +1,6 @@
 ### HELLO :wave:
 :round_pushpin: Cracow, Poland <br>
-:mortar_board: student in the final term of Computer Science and Intelligent Systems at AGH University of Science and Technology <br>
+:mortar_board: graduated from Computer Science and Intelligent Systems at AGH University of Science and Technology <br>
 
 :microscope: experience with C# .NET and SQL<br> 
 :computer: good knowledge of HTML, CSS, JS, TS, Angular <br>
